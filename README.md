@@ -8,4 +8,5 @@ Follow my progress below 👇
 ## 📅 Daily Apps
 
 - ✅ [Day 1 – Hello World](./Day1_HelloWorld/)
-- 🔜 Day 2 – Coming soon...
+- ✅ [Day 2 – Simple Calculator - Basic arithmetic with user inputs](./Day2_SimpleCalculator/)
+- 🔜 Day 3 – Coming soon...
