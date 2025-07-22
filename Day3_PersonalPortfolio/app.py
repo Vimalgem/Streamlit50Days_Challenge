@@ -25,11 +25,11 @@ Currently on a mission to learn, earn, and grow in the world of tech 🚀
 st.subheader("🔗 Connect with Me")
 
 st.markdown("""
-- 📧 [Email Me](mailto:your_email@example.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🌐 [My Blog](https://yourblogsite.com)  
-- 🧠 [My Projects GitHub](https://github.com/yourusername)  
-- 📺 [YouTube Channel](https://www.youtube.com/@yourchannel)
+- 📧 [Email Me](mailto:vimalgem288.com)  
+- 💼 [LinkedIn](www.linkedin.com/in/vimalgem)  
+- 🌐 [My Demo site](https://vimalgem.rf.gd/?i=1)  
+- 🧠 [My Projects GitHub](https://github.com/Vimalgem)  
+- 📺 [YouTube Channel](https://www.youtube.com/@Vimalgem)
 """)
 
 # Footer
