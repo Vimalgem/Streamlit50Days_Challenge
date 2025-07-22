@@ -9,4 +9,5 @@ Follow my progress below 👇
 
 - ✅ [Day 1 – Hello World](./Day1_HelloWorld/)
 - ✅ [Day 2 – Simple Calculator - Basic arithmetic with user inputs](./Day2_SimpleCalculator/)
-- 🔜 Day 3 – Coming soon...
+- ✅ [Day 3 – Day3_PersonalPortfolio](./Day3_PersonalPortfolio/)
+- 🔜 Day 4 – Coming soon...
